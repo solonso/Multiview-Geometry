@@ -228,8 +228,8 @@ Each lab includes experiments demonstrating:
 
 ## Authors
 
-- Solomon Chibuzo Nwafor (@solonso)
-- Muhammad Faran Akram (@mfa006)
+- Solomon Chibuzo Nwafor ([@solonso](https://github.com/solonso))
+- Muhammad Faran Akram ([@mfa006](https://github.com/mfa006))
 
 ---
 
